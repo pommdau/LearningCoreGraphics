@@ -1,8 +1,8 @@
 # [Core Graphics Tutorial: Lines, Rectangles, and Gradients](https://www.raywenderlich.com/475829-core-graphics-tutorial-lines-rectangles-and-gradients)
 
-![image](https://i.imgur.com/H9h2XNL.png)
+<img width="512" alt="image" src="https://i.imgur.com/H9h2XNL.png">
 
-![image](https://i.imgur.com/nZiOGLH.png)
+<img width="512" alt="image" src="https://i.imgur.com/nZiOGLH.png">
 
 > While this tutorial covers using Core Graphics on iOS, it’s important to know that Core Graphics is available for all major Apple platforms including MacOS via AppKit, iOS and tvOS via UIKit and on the Apple Watch via WatchKit.
 
