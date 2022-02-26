@@ -1,2 +1,2 @@
-# LearningCoreGraphics
-Core Graphicsの勉強用リポジトリ
+# Cocoa Practice
+- Cocoaの雑多な勉強用リポジトリ
